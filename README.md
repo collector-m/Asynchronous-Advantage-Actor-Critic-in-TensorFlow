@@ -70,7 +70,7 @@ To train,
 
 To display the result with game play,
 
-    $python a3c_disp.py
+    $python a3c_display.py
 
 ## Using GPU
 To enable gpu, change "USE_GPU" flag in "constants.py".
